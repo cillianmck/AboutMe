@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Cillian McKermitt</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio"> Hi, my name is Cillian
+\n\nI am 23 years old.
+\n\nI have just completed a MSc in Professional Software Development
+\nI also have a Law Degree.
+\nI am from County Down in Ireland.
+\nI am an only child.
+\n\nSome hobbies of mine include:
+\n\nFootball
+\n\nSwimming
+\n\nBasketball
+\n\nReading
+\n\nPlaying Chess
+\n\nProgramming
+\n\nRunning
+\n\nGoing to the cinema
+\n\nGoing out with friends
+\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="button_text">Done!</string>
+    <string name="done">Done</string>
+</resources>
